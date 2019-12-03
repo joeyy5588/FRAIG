@@ -14,5 +14,5 @@ $ ./fraig
 - Sweep: Delete unsed gates
 - Optimize: Perform simple optimization
 - Strash: Structural hash
-- Simulate: use binary pattern to simulate the whole circuit, do not reduce gates
-- Fraig: use SAT solver to solve potential equivalent gates
+- Simulate: Use binary pattern to perform the simulation
+- Fraig: Use SAT solver to solve potential equivalent gates
